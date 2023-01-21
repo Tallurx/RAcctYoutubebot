@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Windows 10 latest chrome ",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+    "viewport": {
+      "width": 1512,
+      "height": 982,
+      "deviceScaleFactor": 4,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Windows 10-based PC using Edge browser",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/105.0.1343.53",
+    "viewport": {
+      "width": 1280,
+      "height": 1024,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "macOS 16 Chrome 104.0",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+    "viewport": {
+      "width": 3072,
+      "height": 1920,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Windows 10 Firefox",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0",
+    "viewport": {
+      "width": 1280,
+      "height": 1024,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "macOS 14 Firefox 104.0",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:104.0) Gecko/20100101 Firefox/104.0",
+    "viewport": {
+      "width": 3024,
+      "height": 1964,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Windows 10 MS Egde",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/105.0.1343.53",
+    "viewport": {
+      "width": 1280,
+      "height": 1024,
+      "deviceScaleFactor": 4,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Mac OS X-based computer using a Safari browser",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15",
+    "viewport": {
+      "width": 1280,
+      "height": 1024,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Win10 Edge 107.0",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.24",
+    "viewport": {
+      "width": 1920,
+      "height": 1080,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Mac OS X-based Firefox",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 12.6; rv:105.0) Gecko/20100101 Firefox/105.0",
+    "viewport": {
+      "width": 1280,
+      "height": 1024,
+      "deviceScaleFactor": 4,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Win10 Firefox 102.0",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; rv:102.0) Gecko/20100101 Firefox/102.0",
+    "viewport": {
+      "width": 1280,
+      "height": 1024,
+      "deviceScaleFactor": 4,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Mac 20 Firefox",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 12.6; rv:105.0) Gecko/20100101 Firefox/105.0",
+    "viewport": {
+      "width": 1280,
+      "height": 1024,
+      "deviceScaleFactor": 4,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Win10 Firefox 107.0",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0",
+    "viewport": {
+      "width": 1280,
+      "height": 1024,
+      "deviceScaleFactor": 4,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Mac 20 Safari 15",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 20_0_1) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/15.0.0 Safari/1500",
+    "viewport": {
+      "width": 1280,
+      "height": 1024,
+      "deviceScaleFactor": 4,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Win10 Chrome 104.0",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117",
+    "viewport": {
+      "width": 1920,
+      "height": 1080,
+      "deviceScaleFactor": 4,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Win10 Firefox 91.0",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0",
+    "viewport": {
+      "width": 1366,
+      "height": 1024,
+      "deviceScaleFactor": 4,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Mac book X-based Chrome",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+    "viewport": {
+      "width": 1280,
+      "height": 1024,
+      "deviceScaleFactor": 4,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Win7 Firefox 105.0",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0",
+    "viewport": {
+      "width": 1536,
+      "height": 864,
+      "deviceScaleFactor": 4,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Mac book X-based Edge",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/105.0.1343.53",
+    "viewport": {
+      "width": 1280,
+      "height": 1024,
+      "deviceScaleFactor": 4,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Firefox Linux 100.0",
+    "userAgent": "Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0",
+    "viewport": {
+      "width": 1366,
+      "height": 768,
+      "deviceScaleFactor": 4,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Chrome OS-based  using Chrome browser (Chromebook)",
+    "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14989.107.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5195.134 Safari/537.36",
+    "viewport": {
+      "width": 1280,
+      "height": 1024,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": " Win10 Chrome 106.0",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+    "viewport": {
+      "width": 1920,
+      "height": 1080,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "macOS 13 Safari 15.6",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15",
+    "viewport": {
+      "width": 2560,
+      "height": 1664,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Win10 Firefox 105.0",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0",
+    "viewport": {
+      "width": 1920,
+      "height": 1080,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "macOS 13 Chrome 106.0",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+    "viewport": {
+      "width": 2560,
+      "height": 1600,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Win10 Firefox 106.0",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0",
+    "viewport": {
+      "width": 1920,
+      "height": 1024,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Win10 Chrome 105.0 ",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+    "viewport": {
+      "width": 1920,
+      "height": 1024,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Linux Firefox 105.0",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:105.0) Gecko/20100101 Firefox/105.0",
+    "viewport": {
+      "width": 1920,
+      "height": 1024,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "macOS 13 Chrome 105.0",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+    "viewport": {
+      "width": 2560,
+      "height": 1600,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Linux Chrome 106.0",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+    "viewport": {
+      "width": 1920,
+      "height": 1024,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "macOS 13 Safari 16.0",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15",
+    "viewport": {
+      "width": 2560,
+      "height": 1600,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Win10 Chrome 107.0",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36",
+    "viewport": {
+      "width": 1512,
+      "height": 1024,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Linux Firefox 106.0",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0",
+    "viewport": {
+      "width": 1512,
+      "height": 1024,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Win10 Edge 106.0",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52",
+    "viewport": {
+      "width": 1280,
+      "height": 1024,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Linux Firefox 102.0",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0",
+    "viewport": {
+      "width": 1280,
+      "height": 1024,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "macOS 13 Safari 16.1",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15",
+    "viewport": {
+      "width": 2560,
+      "height": 1600,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "macOS 13 Safari 15.6.1",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15",
+    "viewport": {
+      "width": 2560,
+      "height": 1600,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Linux Firefox 103.0",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "viewport": {
+      "width": 1280,
+      "height": 1024,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": " Win10 Edge 102.0",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0",
+    "viewport": {
+      "width": 1536,
+      "height": 864,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "macOS 13 Chrome 107.0",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36",
+    "viewport": {
+      "width": 2560,
+      "height": 1600,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Win10 Edge 105.0",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53",
+    "viewport": {
+      "width": 1512,
+      "height": 1024,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Linux Firefox 91.0",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0",
+    "viewport": {
+      "width": 1512,
+      "height": 1024,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Linux Firefox 104.0",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0",
+    "viewport": {
+      "width": 1512,
+      "height": 1024,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "macOS 15 Safari 15.5",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15",
+    "viewport": {
+      "width": 2880,
+      "height": 1800,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Win10 Chrome 105.0",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 OPR/91.0.4516.77",
+    "viewport": {
+      "width": 1366,
+      "height": 768,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Win10 Chrome 103.0",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
+    "viewport": {
+      "width": 1366,
+      "height": 768,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Win10 Chrome 104.0",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+    "viewport": {
+      "width": 1366,
+      "height": 768,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Linux Chrome 107.0",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36",
+    "viewport": {
+      "width": 1536,
+      "height": 864,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "macOS 15 Safari 15.4",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15",
+    "viewport": {
+      "width": 2880,
+      "height": 1800,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "Win10 Firefox 91.0",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 Firefox/91.0",
+    "viewport": {
+      "width": 1536,
+      "height": 864,
+      "deviceScaleFactor": 3,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  },
+  {
+    "name": "macOS 13 Chrome 79.0",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36",
+    "viewport": {
+      "width": 2560,
+      "height": 1664,
+      "deviceScaleFactor": 4,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    }
+  }
+]
