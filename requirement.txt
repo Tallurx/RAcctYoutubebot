@@ -1,1 +1,1 @@
-puppeteer-extra puppeteer-extra-plugin-stealth puppeteer-extra-plugin-recaptcha colors prompt-sync
+puppeteer@13.7.0 puppeteer-extra@3.3.4 puppeteer-extra-plugin-stealth@2.11.1 puppeteer-extra-plugin-recaptcha@3.6.6 colors prompt-sync
